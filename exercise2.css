@@ -1,0 +1,27 @@
+div{
+    border: solid black 3px;
+    position: absolute;
+    padding: 10px;
+}
+.firstdiv{
+    width: 180px;
+    height: 120px;
+}
+.seconddiv{
+    width: 120px;
+    height: 120px;
+    bottom: 500px;
+    left: 150px;
+
+}
+.thirddiv{
+    width: 340px;
+    height: 120px;
+    bottom: 390px;
+    left: 10px;
+}
+.fourthdiv{
+    height: 300px;
+    width: 85px;
+    left: 340px;
+}
